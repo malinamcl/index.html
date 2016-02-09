@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<title>This is my webpage</title>
+	</head>
+
+	<body>
+		<h1>My Title<h1>
+		<h2>My sub-title</h2>
+
+		<p>My paragraph 1 - text text <strong>text</strong> <b>text</b> <i>text</i> <u>text</u> text text</p>
+		<p>My paragraph 2</p>
+		<p>My paragraph 3</p>
+		<ul>
+		<li>Eenie</li>
+		<li>Meenie</li>
+		<li>Minie</li>
+		<li>Moe</li>
+		</ul>
+		<ol>
+		<li>Catch</li>
+		<li>A Tiger</li>
+		<li>By the</li>
+		<li>Toe</li>
+		</ol>
+	<form>
+		Username:<input type="text" /><br/>
+		Password:<input type="password" /><br/>
+		Gender:
+		<input type="radio" name="g" />M
+		<input type="radio" name="g"/>F<br/>
+		I am over 18
+		<input type="checkbox" /><br/>
+		Submit Information
+		<input type="button" value="Click Me"/><br/>
+	</form>
+
+<table border="1" style="width:80%">
+		<thead>
+			<tr>
+				<th>Technology</th>
+				<th>Description</th>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Ruby on Rails</td>
+				<td>A web development framework built on the Ruby programming language.</td>
+			</tr>
+			<tr>
+				<td>Node.js</td>
+				<td>A web development framework built using javascript.</td>
+			<tr>
+				<td>MySQL</td>
+				<td>A common open-source database.</td>
+			</tr>
+			<tr>
+				<td>php </td>
+				<td>A programming language used for the majority of dynamic sites in the early 2000s</td>
+			</tr>
+		</tbody>
+	</table>
+
+	</body>
+
+</html>
